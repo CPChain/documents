@@ -1,0 +1,14 @@
+A list of documents for the CPChain platform.
+
+* Papers
+** Drugledger
+   2018 IEEE Inernational Conference on Blockchain (/under submission/)
+
+   cf. [[papers/drugledger.pdf][drugledger]]
+
+** PDash
+   2018 IEEE Inernational Conference on Blockchain (/under submission/)
+
+   cf. [[papers/pdash.pdf][PDash]]
+  
+
